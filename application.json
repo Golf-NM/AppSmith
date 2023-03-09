@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "id": "Sign In",
+      "isDefault": true
+    },
+    {
+      "id": "Homepage",
+      "isDefault": false
+    },
+    {
+      "id": "Investor Information page",
+      "isDefault": false
+    },
+    {
+      "id": "Total product",
+      "isDefault": false
+    },
+    {
+      "id": "ทด",
+      "isDefault": false
+    },
+    {
+      "id": "Parent Category",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Cuurent datetime",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#FFEFDB",
+  "icon": "love",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "DESKTOP"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}

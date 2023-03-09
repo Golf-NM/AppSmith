@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Upadte_Detail",
+    "pageId": "Homepage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Homepage_Upadte_Detail",
+  "deleted": false,
+  "gitSyncId": "622576e445ea27345b496c52_624bf2b251a8863d6c401c16"
+}
