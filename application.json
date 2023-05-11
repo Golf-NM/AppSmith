@@ -31,6 +31,30 @@
     {
       "id": "Cuurent datetime",
       "isDefault": false
+    },
+    {
+      "id": "Mobile version",
+      "isDefault": false
+    },
+    {
+      "id": "Mobile version 2",
+      "isDefault": false
+    },
+    {
+      "id": "Mobile version 3",
+      "isDefault": false
+    },
+    {
+      "id": "Mobile version 4",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Homepage Copy",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -39,15 +63,20 @@
   "color": "#FFEFDB",
   "icon": "love",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
+  "embedSetting": {
+    "height": "720px",
+    "width": "1024px",
+    "showNavigationBar": true
+  },
   "isManualUpdate": false,
   "deleted": false
 }

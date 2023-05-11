@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "current",
+    "pageId": "Mobile version 2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Mobile version 2_current",
+  "deleted": false,
+  "gitSyncId": "622576e445ea27345b496c52_642502eb3c6952132524cc17"
+}

@@ -1,0 +1,4 @@
+{
+  "email": "{{email_modal.text}}",
+  "password": "{{password_modal.text}}"
+}
